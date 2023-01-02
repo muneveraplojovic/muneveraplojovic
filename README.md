@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Munevera Maja Plojovic.</h1>
 <h3>A passionate frontend developer from Serbia.</h3>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneveraplojovic&show_icons=true&locale=en&layout=compact" alt="muneveraplojovic" /></p>
 
 - 🌱 I’m currently learning **JavaScript(ES6) and React.js.**
 
