@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munevera Maja Plojovic.</h1>
 <h3>A passionate frontend developer from Serbia.</h3>
 
-- 🌱 I’m currently learning **JavaScript(ES6) and React.js.**
+- 🌱 I’m currently learning **React.js.**
 
 - 📫 How to reach me **plojovicm3@gmail.com**
 
